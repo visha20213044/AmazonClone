@@ -11,7 +11,7 @@ This repository contains a small and simple Amazon website clone created using H
 
 
 
-![Logo](https://github.com/visha20213044/AmazonClone/blob/main/amazon_logo.png)
+
 
 
 
